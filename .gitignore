@@ -1,0 +1,9 @@
+# IntelliJ IDEA 配置
+.idea/
+
+# macOS 系统文件
+.DS_Store
+
+# 临时文件
+*.tmp
+*.log
